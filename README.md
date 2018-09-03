@@ -1,3 +1,3 @@
 # hello-world
 Program to print "Hello World!"
-Hello, my name is Albert.
+Hello, my name is Albert Ki.
